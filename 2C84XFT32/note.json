@@ -1,0 +1,55 @@
+{
+  "paragraphs": [
+    {
+      "text": "jkhgk",
+      "dateUpdated": "Feb 5, 2017 5:16:47 PM",
+      "config": {
+        "colWidth": 12.0,
+        "graph": {
+          "mode": "table",
+          "height": 300.0,
+          "optionOpen": false,
+          "keys": [],
+          "values": [],
+          "groups": [],
+          "scatter": {}
+        },
+        "enabled": true,
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "jobName": "paragraph_1486294973662_-884526246",
+      "id": "20170205-171253_1491090456",
+      "dateCreated": "Feb 5, 2017 5:12:53 PM",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "sample1",
+  "id": "2C84XFT32",
+  "angularObjects": {
+    "2C3VKYPK2:shared_process": [],
+    "2C2NTWEYN:shared_process": [],
+    "2C4PHAYQK:shared_process": [],
+    "2C493XEH8:shared_process": [],
+    "2C3Y87GRD:shared_process": [],
+    "2C3M6MJRT:shared_process": [],
+    "2C2CHXRVE:shared_process": [],
+    "2C5GT8J5A:shared_process": [],
+    "2C2TFQ2WN:shared_process": [],
+    "2C64YE78Y:shared_process": [],
+    "2C5JVCPG3:shared_process": [],
+    "2C534PMZW:shared_process": [],
+    "2C5QZ5XTF:shared_process": [],
+    "2C4TTCA6B:shared_process": [],
+    "2C467CWC1:shared_process": [],
+    "2C5ZPQZT6:shared_process": [],
+    "2C5ESCXP9:shared_process": [],
+    "2C4QZWP1U:shared_process": []
+  },
+  "config": {},
+  "info": {}
+}
